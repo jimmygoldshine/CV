@@ -14,10 +14,9 @@ I fulfilled a client-facing role for 2 and a half years at my previous employer.
 
 Whilst operating as an Account Manager for my previous employer I fulfilled an Analyst role across many clients. Analysisng large sets of data and extracting valuable insights was the bread and butter of the job and one which I exceptionally enjoyed. I was also one of the champions of the product we used (DoubeClick) finding new ways of using the tech to improve the campaigns we were running - I wrote multiple blogs on getting the most out of the platform. I trained all new joiners on the platform as well as demo'd the product in sales meetings to prospective clients. My expertise on the platforms led to me winning various industry awards for campaign delivery and performance.
 
-http://www.periscopix.co.uk/blog/is-your-creative-strategy-holding-you-back/
-http://www.periscopix.co.uk/blog/maximise-the-potential-of-your-programmatic-display-campaign-with-a-multi-device-strategy/
-
-http://www.periscopix.co.uk/blog/a-guide-to-buying-3rd-party-audience-data/
+- http://www.periscopix.co.uk/blog/is-your-creative-strategy-holding-you-back/
+- http://www.periscopix.co.uk/blog/maximise-the-potential-of-your-programmatic-display-campaign-with-a-multi-device-strategy/
+- http://www.periscopix.co.uk/blog/a-guide-to-buying-3rd-party-audience-data/
 
 ## Education
 
