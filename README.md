@@ -38,4 +38,5 @@ http://www.periscopix.co.uk/blog/a-guide-to-buying-3rd-party-audience-data/
 
 **Periscopix** (April 2014 to October 2016)    
 Programmatic Display Team Leader  
+
 I was ultimately responsible for the short and long term performance of my teams' business portfolio ensuring client goals were achieved and surpassed. I have extensive experience in a client-facing role, leading client strategy, delivering performance and consulting on ad-tech implementation and tech integration. I was sitting at Account Director level for a £3m+ client.
