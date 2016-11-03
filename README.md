@@ -32,11 +32,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (October 2010 to June 2013)
+#### Durham University (October 2010 to June 2013)
 
 - Natural Sciences
 - 2:1
-- Specialising in Evolution 
+- Opted to specialise in Evolution (Evolutionary Biology, Evolutionary Psychology, Earth Sciences)
 
 #### Any other qualifications
 
