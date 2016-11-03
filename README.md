@@ -1,4 +1,4 @@
-## Your Name
+## James Dix
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -32,17 +32,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Your University / College (October 2010 to June 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Natural Sciences
+- 2:1
+- Specialising in Evolution 
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Periscopix** (April 2014 to October 2016)    
+Programmatic Display Team Leader  
+  
