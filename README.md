@@ -16,11 +16,12 @@ Whilst operating as an Account Manager for my previous employer I fulfilled an A
 
 http://www.periscopix.co.uk/blog/is-your-creative-strategy-holding-you-back/
 http://www.periscopix.co.uk/blog/maximise-the-potential-of-your-programmatic-display-campaign-with-a-multi-device-strategy/
+
 http://www.periscopix.co.uk/blog/a-guide-to-buying-3rd-party-audience-data/
 
 ## Education
 
-#### Makers Academy (November 2016 to February 2016)
+#### Makers Academy (November 2016 to February 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
