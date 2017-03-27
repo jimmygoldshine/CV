@@ -1,14 +1,20 @@
 ## James Dix
 
-I'm a science graduate who is interested in technology and it's impact on humans and the world both historically, today and in the future. After University ended I gained a position at a digital marketing agency which fulfilled by desire to work with technology. And whilst I gained invaluable skills during my 2 and a half years there, I hungered to be able to improve the tech; to move from a passive user to an active Maker.
+I'm a science graduate who is interested in technology and it's impact on humans and the world both historically, today and in the future. After University ended, I gained a position at a digital marketing agency which fulfilled by desire to work with technology in the business world. And whilst I gained invaluable skills during my 2 and a half years there, I hungered to be able to improve the tech; to move from a passive user to an active Maker.
 
-I'm excited about a role where I can develop products that fundamentally impacts the way humans interact with each other - whether that's businesses interacting with businesses, businesses interacting with their users, or users interacting with other users isn't a differentiating factor at this point. Personal development and progression is key, against a backdrop of a progressive company who aims to deliver best-in-class products.
+I'm excited about a role where I can develop products that fundamentally impacts the way humans interact with each other - whether that's businesses interacting with businesses, businesses interacting with their users, or users interacting with other users. Personal development and progression is key, against a backdrop of a progressive company who aim to deliver best-in-class products.
 
 ## Skills
 
 #### Communication
 
 I fulfilled a client-facing role for 2 and a half years at my previous employer. As such I have developed excellent communication skills especially around technical topics which need to be communicated in non-technical terms. Externally, rhis encompassed performance reviews and sales meetings with C-Level executives at blue chip companies. Internally, I was responsible for a team of six Account Managers whom I had to organise in order to deliver excellent digital marketing campaigns for our clients.
+
+#### Software Craftsmanship
+
+I consider myself an 'all-rounder' full-stack developer and I can honestly say I enjoy the back-end and the front-end equally. Being verstalite in my tech skills allows me to touch products end-to-end and ensure outputted web applications work seamlessly. I'm a product-driven engineer and I constantly consider the end-user of the products on which I work to ensure the products are being developed for them, and not for the team building it.
+
+I'm currently expanding my development arsenal by learning Java and React JS - both of which weren't taught on the Makers Academy course. I'm excited to employ my software crafstmanship skills at a company who create world-class products.
 
 #### Analysis
 
@@ -24,10 +30,10 @@ Whilst operating as an Account Manager for my previous employer I fulfilled an A
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Ruby on Rails, Javascript, JQuery, PostgresQL
+- RSpec, Jasmine, Mocha
 
 #### University of Durham (October 2010 to June 2013)
 
